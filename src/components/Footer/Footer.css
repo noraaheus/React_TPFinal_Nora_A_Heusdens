@@ -1,0 +1,52 @@
+footer {
+  margin-top: 4rem;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 3rem;
+}
+
+footer nav {
+  width: 100%;
+}
+
+footer .nav-list {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  list-style: none;
+}
+
+footer p {
+  color: var(--text-secondary);
+}
+
+footer li {
+  transition: 0.25s;
+  cursor: pointer;
+}
+
+footer li:hover {
+  color: var(--primary);
+}
+
+#derechos {
+  font-size: 18px;
+  margin: 0;
+}
+
+.iconos {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.iconos img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}

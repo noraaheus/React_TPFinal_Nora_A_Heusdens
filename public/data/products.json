@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Maceta Abejitas",
+    "description": "Maceta de barro, N°12 pintada a mano con motivo de abejas, barnizada.",
+    "price": 12000,
+    "image": "/img/Macetas/Maceta abejitas.jpeg"
+    
+  },
+  {
+    "id": 2,
+    "name": "Maceta Cactus",
+    "description": "Maceta de barro, N°14 pintada a mano con motivo de cactus, barnizada",
+    "price": 14000,
+    "image": "/img/Macetas/Maceta Cactus.jpeg"
+    
+  },
+  {
+    "id": 3,
+    "name": "Maceta de Flores relieve",
+    "description": "Maceta de barro, N°16 pintada a mano con relieve y motivo de flores, barnizada",
+    "price": 16000,
+    "image": "/img/Macetas/Maceta Flores relieve.jpeg"
+    
+  },
+  {
+    "id": 4,
+    "name": "Maceta Margaritas",
+    "description": "Maceta de barro, N°20 pintada a mano con motivo de margaritas, barnizada",
+    "price": 20000,
+    "image": "/img/Macetas/Maceta Margaritas.jpeg"
+    
+  },
+  {
+    "id": 5,
+    "name": "Combo x 3",
+    "description": "Macetas de barro, N°10 pintadas a mano con motivo varios, barnizadas",
+    "price": 42000,
+    "image": "/img/Macetas/Combo macetas x 3.jpeg"
+    
+  }
+]
